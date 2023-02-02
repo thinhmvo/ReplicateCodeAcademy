@@ -1,0 +1,34 @@
+.banner-img {
+    background-image: url('../img/bg.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: beige;
+
+
+}
+
+.banner-subtitle, .banner-title {
+
+    font-family: 'Times New Roman', Times, serif;
+    color: orange;
+}
+
+.banner-subtitle {
+    display: inline-block;
+    font-size: 2rem;
+    border: .75rem solid orange;
+    border-left: none;
+    border-right: none;
+
+}
+
+.banner-title {
+    font-size: 5rem;
+}
+
+.banner-journal-img {
+    position: absolute;
+    bottom: -250px;
+    left: 275px;
+}
